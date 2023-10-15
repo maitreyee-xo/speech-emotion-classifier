@@ -9,7 +9,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python-blue" alt="Made with Python">
-  <img src="https://img.shields.io/github/license/yourusername/TESS-Emotion-Classifier" alt="License">
 </p>
 
 <!-- Table of Contents -->
